@@ -39,3 +39,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+.github/secret.sh
+/code/devops-cicd-apps/src/cicd/istory-web-k8s/.github/secret.sh
